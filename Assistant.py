@@ -20,7 +20,7 @@ def wishMe():
     elif hour>=12 and hour<18:
         speak("Good afternoon sir!")
     else:
-        speak("good evening sir!") 
+        speak("hiii sir!") 
 
     speak("I am Aakash's assistance How may i help u sir ") 
 
